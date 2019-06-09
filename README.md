@@ -1,2 +1,4 @@
 # hello-world
-this is my first github respository
+
+This is the first time that I edit a file in github, let's see how it works.
+
